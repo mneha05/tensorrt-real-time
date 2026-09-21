@@ -1,1 +1,1 @@
-numpy
+numpy>=1.26\ncuda-python>=12.0\n
